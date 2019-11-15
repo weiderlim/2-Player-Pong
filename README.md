@@ -1,6 +1,8 @@
 # 2-Player-Pong
 Personal take on the traditional game pong, but with two players instead of playing with an AI.
 
+The Pygame module for Python is needed to run this.
+
 Coded this from scratch without referencing online examples, so perhaps this is quite a novel take on the game.
 
 Focused more on the OOP aspects of integrating the Pygame module, where all the game entities (the board and the ball) and the 
