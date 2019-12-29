@@ -1,7 +1,7 @@
 # 2-Player-Pong
 Personal take on the traditional game pong, but with two players instead of playing with an AI.
 
-The Pygame module for Python 3 is needed to run this. WHEN RUNNING THIS GAME FROM THE TERMINAL MAKE SURE YOU ARE RUNNING USING PYTHON VERSION 3 AND ABOVE (ex: python3 pong.py)
+The Pygame module for Python 3 is needed to run this. WHEN RUNNING THIS GAME FROM THE TERMINAL MAKE SURE YOU ARE RUNNING USING PYTHON VERSION 3 AND ABOVE (ex: python3 pong_2_player.py, if by default you are not running Python 3)
 
 Coded this from scratch without referencing online examples, so perhaps this is quite a novel take on the game.
 
